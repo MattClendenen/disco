@@ -1,0 +1,2 @@
+# disco
+Distributed computing project
